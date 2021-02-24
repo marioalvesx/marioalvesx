@@ -1,4 +1,16 @@
-### Hi there 👋
+# Mario Alves
+
+## Hi there 👋
+Meu combustível é aprender e meu sonho é construir soluções & ferramentas que realmente façam a diferença na sociedade.
+Sou estudante de ciência da computação & FullStack Developer :computer:
+
+:rocket: Atualmente trabalho na **Umbler**
+
+<br/> :purple_heart: &nbsp; Busco colaborar com projetos em Back-end/Front-end envolvendo NodeJS
+<br/> :muscle: &nbsp; Posso te ajudar com projetos utilizando ASP.NET
+<br/> :computer: &nbsp; Busco aprender mais sobre: ReactJS, Node.js, React Native & Typescript
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games (AC, Don't Starve Together), e sci-fi.
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 
 <!--
 **marioalvesx/marioalvesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
