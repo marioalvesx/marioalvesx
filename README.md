@@ -4,11 +4,11 @@
 Meu combustível é aprender e meu sonho é construir soluções & ferramentas que realmente façam a diferença na sociedade.
 Sou estudante de ciência da computação & FullStack Developer :computer:
 
-:rocket: Atualmente trabalho na **Umbler**
+:rocket: Atualmente trabalho na [**Umbler**](https://umbler.com/br)👨‍💻
 
 <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Back-end/Front-end envolvendo NodeJS
-<br/> :muscle: &nbsp; Posso te ajudar com projetos utilizando C# & ASP.NET
-<br/> :computer: &nbsp; Busco aprender mais sobre: Javascript, ReactJS, React Native & Typescript
+<br/> :muscle: &nbsp; Posso te ajudar com projetos utilizando **C#** & **ASP.NET** 
+<br/> :computer: &nbsp; Estou estudando: ![JavaCript_Badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white) ![NodeJS_Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/) ![React_Badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org) ![ReactNative_Badge](https://img.shields.io/badge/-React_Native-563D7C?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev) ![TypeScript_Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games (AC, Don't Starve Together), e sci-fi.
 <br/> :email: &nbsp; Entre em contato comigo: 
 
