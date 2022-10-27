@@ -4,7 +4,7 @@
 Meu combustível é aprender e meu sonho é construir soluções & ferramentas que realmente façam a diferença na sociedade.
 Sou estudante de ciência da computação & FullStack Developer :computer:
 
-:rocket: Atualmente trabalho na [**Umbler**](https://umbler.com/br)👨‍💻
+:rocket: Atualmente estou em busca de oportunidades 👨‍💻
 
 <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Back-end/Front-end envolvendo NodeJS
 <br/> :muscle: &nbsp; Posso te ajudar com projetos utilizando **C#** & **ASP.NET** 
