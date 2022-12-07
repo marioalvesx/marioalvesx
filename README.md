@@ -1,6 +1,4 @@
-# Mario Alves
-
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=9B53FF&center=true&center=true&width=1000%&lines=Hi+there!;My+Name+is+Mario+Alves.;I+am+25+years+old;and+i'm+from+Brazil.;BE+WELCOME!)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marioalvesx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8a3cf8&icon_color=9b53ff" />
