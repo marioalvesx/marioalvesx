@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=9B53FF&center=true&center=true&width=1000%&lines=Hi+there!;My+Name+is+Mario+Alves.;I+am+25+years+old;and+i'm+from+Brazil.;BE+WELCOME!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=154BD7FF&center=true&center=true&width=1000%&lines=Hello+there!;My+Name+is+Mario+Alves+and+I+am+27+years+old.;let's+code+😉+;BE+WELCOME!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marioalvesx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8a3cf8&icon_color=9b53ff" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioalvesx&layout=compact&hide_border=true&bg_color=0d1117&title_color=8a3cf8&icon_color=9b53ff&text_color=FFFFFF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marioalvesx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=154BD7FF&icon_color=154BD7FF" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioalvesx&layout=compact&hide_border=true&bg_color=0d1117&title_color=154BD7FF&icon_color=9b53ff&text_color=FFFFFF" />
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marioalvesx&bg_color=0d1117&color=9b53ff&line=5d3299&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marioalvesx&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
